@@ -8,7 +8,7 @@ GET http://localhost:3000/productos
 GET http://localhost:3000/productos?categoria=electronica
 
 ### Usuarios con Parámetro de Ruta
-GET http://localhost:3000/usuarios/2
+GET http://localhost:3000/usuarios/5
 
 ### Ruta no existente (404)
 GET http://localhost:3000/ruta-no-existente
